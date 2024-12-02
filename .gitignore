@@ -1,2 +1,9 @@
 target
 .snfoundry_cache/
+starkli-wallets
+aarchives
+examples
+Makefile
+.env*
+removed.rs
+zz*.sh

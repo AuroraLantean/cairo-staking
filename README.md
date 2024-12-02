@@ -1,1 +1,3 @@
 # cairo-staking
+
+scarb init
